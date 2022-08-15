@@ -1,4 +1,4 @@
-## Hi! I'm Leo :)
+## Hello World! I'm Leo :)
 
 ### aboutMe.js
 
