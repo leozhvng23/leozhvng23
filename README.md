@@ -5,7 +5,7 @@
 ```javascript
 const leo_zhang = {
     languages: [Javascript, Python, Java, C, HTML, CSS, SQL],
-    interests: ["Full-stack web dev", "UI/UX design", "rock climbing", "cycling", "coffee"],
+    interests: ["Full-stack dev", "UI/UX design", "rock climbing", "cycling", "coffee"],
     technologies: {
         frontEnd: {
             javascript: ["React", "React Native"]
