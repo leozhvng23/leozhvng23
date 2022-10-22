@@ -13,11 +13,14 @@ const leo_zhang = {
         },
         backEnd: {
             javascript: ["Node", "Express"],
-            python: ["Flask", "Numpy"]
+            python: ["Flask"]
         },
         database: {
             relational: ["PostgreSQL", "MySQL"],
             non-relational: ["MongoDB", "Firebase"]
+        },
+        Machine Learning: {
+            python: TensorFlow, scikit-learn
         }
     }
 };
