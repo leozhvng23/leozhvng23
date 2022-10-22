@@ -20,7 +20,7 @@ const leo_zhang = {
             non-relational: ["MongoDB", "Firebase"]
         },
         Machine Learning: {
-            python: TensorFlow, scikit-learn
+            python: ["TensorFlow", "scikit-learn"]
         }
     }
 };
