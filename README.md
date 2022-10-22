@@ -19,7 +19,7 @@ const leo_zhang = {
             relational: ["PostgreSQL", "MySQL"],
             non-relational: ["MongoDB", "Firebase"]
         },
-        Machine Learning: {
+        machineLearning: {
             python: ["TensorFlow", "scikit-learn"]
         }
     }
