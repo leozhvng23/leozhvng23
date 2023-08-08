@@ -8,7 +8,7 @@ const leo_zhang = {
     interests: ["Machine Learning", "Full-stack dev", "UI/UX design", "rock climbing", "cycling", "coffee"],
     technologies: {
         frontEnd: {
-            javascript: ["React", "React Native", "Vue", "JQuery"],
+            javascript: ["React", "React Native", "Vue"],
             css: ["Bootstrap", "TailWind"]
         },
         backEnd: {
